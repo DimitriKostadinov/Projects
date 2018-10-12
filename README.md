@@ -1,5 +1,2 @@
 # Projects
 Course projects
-
-
-
